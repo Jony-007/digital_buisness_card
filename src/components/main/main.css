@@ -1,0 +1,24 @@
+
+.main{
+    color: #fff;
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.about > h3{
+    margin-bottom: .5rem;
+
+}
+
+.about > p, .interest > p{
+    font-size: 13px;
+    color: #DCDCDC;
+
+}
+
+.interest{
+    margin-top: 1rem;
+}
+.interest > h3{
+    margin-bottom: .5rem;
+}
